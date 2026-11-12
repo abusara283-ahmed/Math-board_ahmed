@@ -1,0 +1,9 @@
+{
+  "appId": "com.abisaedmath.mathboard.nocredit",
+  "appName": "لوح الرياضيات",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#e4e8ec"
+  }
+}
